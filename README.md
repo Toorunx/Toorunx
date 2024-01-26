@@ -1,8 +1,8 @@
-- 👋 Yoo, I’m @Toorunx
+- 👋 Hey, I’m @Toorunx
 - 👀 I’m interested in mainly web and game development.
-- 🌱 I’m currently know Python, C# and Javascript but im currently learning C.
+- 🌱 I currently know Python, C# and Javascript but im currently learning C.
 - 💞️ I’m currently working on a social network app and a productivity app.
-- 📫 You can reach me with username toorunxx on Discord to partner up :)
+- 📫 You can reach me with username toorunxx on Discord to partner up 
 
 <!---
 Toorunx/Toorunx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
